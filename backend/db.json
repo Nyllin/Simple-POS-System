@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "coffee",
+      "price": "2500",
+      "image": "https://cdn.pixabay.com/photo/2016/01/02/04/59/coffee-1117933_640.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bubble Tea",
+      "price": "3500",
+      "image": "https://media.istockphoto.com/id/1413040178/photo/boba-milk-tea.webp?b=1&s=612x612&w=0&k=20&c=Ct2YY_cgxoH9RwLSrz8xA6hAMa7SUqQlxU7CCiuROjE="
+    },
+    {
+      "id": 3,
+      "name": "Mocha Coffee",
+      "price": "3500",
+      "image": "https://cdn.pixabay.com/photo/2015/05/07/13/46/cappuccino-756490_640.jpg"
+    },
+    {
+        "id": 4,
+        "name": "espresso",
+        "price": "3500",
+        "image": "https://media.istockphoto.com/id/1362620172/photo/espresso.webp?b=1&s=612x612&w=0&k=20&c=6cUAOJip3olgo2cXM14USY38kNIpsl-rppaOMZS4DXo="
+      }
+
+  ]
+}
